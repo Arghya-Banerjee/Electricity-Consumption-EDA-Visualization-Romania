@@ -1,3 +1,5 @@
+![3acf4ea4-b82d-4ebf-a59f-b1d1e75ffbd8](https://github.com/Arghya-Banerjee/Electricity-Consumption-EDA-Visualization-Romania/assets/72212592/088ed85e-748b-4553-ac67-6a6ee4a93911)
+
 # Electricity Consumption EDA & Visualizations
 
 This Notebook is made to visualize the trends of Power Consumption as well as Production in Romania with respect to different Power Production types of both Renewanle and Non-Renewable Energy sources.
